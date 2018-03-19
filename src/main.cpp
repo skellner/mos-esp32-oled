@@ -1,4 +1,5 @@
 #include "mgos_arduino_ssd1306.h"
+#include "mgos.h"
 
 #ifdef __cplusplus
 extern "C" {
